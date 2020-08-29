@@ -1,6 +1,5 @@
 ### Hi there here is that I am Working On! 👋
 
-<!--
 **satyamsaxena/satyamsaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/s%C3%A4t%C3%BD%C3%A5m-saxena-9154979b/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half Finished.
--->
