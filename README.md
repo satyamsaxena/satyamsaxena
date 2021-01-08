@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Weather Application 
+- 🔭 I’m a Full Stack Developer
 - 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with AWS
