@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/s%C3%A4t%C3%BD%C3%A5m-saxena-9154979b/)
-- 📫  Follow me on [Twitter](https://twitter.com/the_satyam_saxena)
+- 📫  Follow me on [Twitter](https://twitter.com/satyamsaxena092)
 - 😄 My Contact Email : [Click here](mailto:satyamsaxena@outlook.com)
 - ⚡ Fun fact: I am half Finished.
 - <br>
