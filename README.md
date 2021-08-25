@@ -4,7 +4,7 @@
 ### Hi there here is that I am Working On! 👋
 
 - 🔭 I’m a Full Stack Developer
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m exploring & learning Mern Stack 
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
