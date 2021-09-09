@@ -21,4 +21,6 @@
 [<img align="left" alt="Satyam Saxena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/s%C3%A4t%C3%BD%C3%A5m-saxena-9154979b/)
 [<img align="left" alt="Satyam Saxena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/the_satyam_saxena/)
 
-
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/satyamsaxena/satyamsaxena"></a>
+</p>
