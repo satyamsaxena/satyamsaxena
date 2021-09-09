@@ -22,5 +22,5 @@
 [<img align="left" alt="Satyam Saxena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/the_satyam_saxena/)
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/satyamsaxena/satyamsaxena">24k</a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/ayushkul/ayushkul"></a>
 </p>
