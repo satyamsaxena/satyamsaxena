@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/satyamsaxena/satyamsaxena/output/snake.svg" alt="Snake animation" />
+<img src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="Snake animation" />
 
 ###
