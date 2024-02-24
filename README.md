@@ -1,25 +1,51 @@
-### Hey, I'm [Satyam Saxena](https://www.linkedin.com/in/s%C3%A4t%C3%BD%C3%A5m-saxena-9154979b/) 👋
+<h2 align="left">Hi 👋! My name is Satyam and I'm a Full Stack Developer</h2>
 
+###
 
-### Hi there here is that I am Working On! 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m a Full Stack Developer
-- 🌱 I’m exploring & learning Mern Stack 
-- 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about Anything
-- 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/s%C3%A4t%C3%BD%C3%A5m-saxena-9154979b/)
-- 📫  Follow me on [Twitter](https://twitter.com/satyamsaxena092)
-- 😄 My Contact Email : [Click here](mailto:satyamsaxena@outlook.com)
-- ⚡ Fun fact: I am half Finished.
-- <br>
-<img src='https://github-readme-stats.vercel.app/api?username=satyamsaxena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
-<br>
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsaxena&theme=light&hide_langs_below=1'/> -->
+###
 
-[<img align="left" alt="Satyam Saxena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/satyamsaxena092)
-[<img align="left" alt="Satyam Saxena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/s%C3%A4t%C3%BD%C3%A5m-saxena-9154979b/)
-[<img align="left" alt="Satyam Saxena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/the_satyam_saxena/)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-          
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/angular9826.logowik.com.webp" height="30" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" height="30" alt="laravel logo"  />
+
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/the_satyam_saxena/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="mailto:satyamsaxena@outlook.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="www.linkedin.com/in/digitalsatyam"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
