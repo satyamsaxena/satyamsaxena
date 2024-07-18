@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a stron
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsaxena&theme=dark&background=151515&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsaxena&theme=light&hide_langs_below=1" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamsaxena&theme=default" height="150" alt="languages graph" />
 </div>
 
 ## About Me
