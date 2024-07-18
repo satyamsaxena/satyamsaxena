@@ -33,8 +33,6 @@ I specialize in both front-end and back-end development, with a proficiency in v
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="30" alt="PHP" />
   <img width="12" />
   <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" height="30" alt="Laravel" />
