@@ -1,5 +1,3 @@
-Sure, here's the updated version with a profile views widget included:
-
 # Hi 👋! My name is Satyam and I'm a Full Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a strong focus on creating dynamic and responsive web applications. Below, you'll find more about my skills, projects, and how to get in touch with me.
