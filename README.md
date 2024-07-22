@@ -14,7 +14,7 @@ I specialize in both front-end and back-end development, with a proficiency in v
 
 - **Languages**: JavaScript, TypeScript, Python, PHP
 - **Front-end Frameworks**: Angular, React
-- **Back-end Frameworks**: Laravel, Django
+- **Back-end Frameworks**: Laravel, Django, Node Js
 - **Web Technologies**: HTML5, CSS3
 
 ## Skills and Technologies
