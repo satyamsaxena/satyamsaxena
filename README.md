@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a strong focus on creating dynamic and responsive web applications. Below, you'll find more about my skills, projects, and how to get in touch with me.
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsaxena&theme=dark&background=151515&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamsaxena&theme=default" height="150" alt="languages graph" />
-</div>
-
 ## About Me
 <img src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" align="right" height="150px" alt="animation" />
 I specialize in both front-end and back-end development, with a proficiency in various programming languages and frameworks. My expertise includes:
